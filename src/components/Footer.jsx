@@ -56,7 +56,7 @@ export default function Footer() {
                     <a href="#" className="border-b border-solid border-transparent hover:border-gray-500 pb-1">Privacy</a>
                     </li>
                 </ul>
-                {/*<SocialLinks />*/}
+                
                 </div>
                 <div className="w-full lg:w-1/4 mb-10 lg:mb-0"> 
                 <h5 className="text-xl font-bold mb-6">Help</h5>
@@ -77,7 +77,7 @@ export default function Footer() {
                 <div className="flex flex-wrap items-center md:justify-between justify-center">
                 <div className="w-full md:w-4/12 px-4 mx-auto text-center text-white">
                     <div className="text-sm text-gray-600 font-semibold py-1">
-                    Made with <a href="" className="text-gray-600 hover:text-gray-900">React JS</a> by <a href="" className="text-gray-600 hover:text-gray-900">Abdur Rahim</a>.
+                    Made with <a href="" className="text-gray-600 hover:text-gray-900">React JS</a> by <a href="" className="text-gray-600 hover:text-gray-900">Adarsh Saxena</a>.
                     </div>
                     </div>
                     <div className="w-full md:w-8/12 px-4">
